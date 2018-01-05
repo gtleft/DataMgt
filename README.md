@@ -2,10 +2,10 @@
 
 #### 01. R and Python basics (Jan09)
 
-#### Week 2 (Jan17) - Exploratory data analysis
+#### 02. Exploratory data analysis (Jan17)
 
-#### Week 3 (Jan22) - Data wrangling 
+#### 03. Data wrangling (Jan22)
 
-#### Week 4 (Jan29) - Working with string data
+#### 04. Working with string data (Jan29)
 
-#### Week 5 (Feb06) - Working with Internet data
+#### 05. Working with Internet data (Feb06)
