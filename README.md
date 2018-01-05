@@ -1,11 +1,11 @@
 ### Data Management Course
 
-##### [DataMgt-01] R and Python basics
+##### Week 1 (Jan09) -- R and Python basics
 
-##### [DataMgt-02] Exploratory data analysis
+##### Week 2 (Jan17) - Exploratory data analysis
 
-##### [DataMgt-03] Data wrangling 
+##### Week 3 (Jan22) - Data wrangling 
 
-##### [DataMgt-04] Working with string data
+##### Week 4 (Jan29) - Working with string data
 
-##### [DataMgt-05] Working with Internet data
+##### Week 5 (Feb06) - Working with Internet data
