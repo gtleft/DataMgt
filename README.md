@@ -2,7 +2,7 @@
 
 ##### [DataMgt-01] R and Python basics
 
-##### [DataMgt-02] Exploratory analysis
+##### [DataMgt-02] Exploratory data analysis
 
 ##### [DataMgt-03] Data wrangling 
 
