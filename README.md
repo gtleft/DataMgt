@@ -1,6 +1,6 @@
-### Data Management Course
+## Data Management Course
 
-#### Week 1 - R and Python basics (Jan09)
+#### 01. R and Python basics (Jan09)
 
 #### Week 2 (Jan17) - Exploratory data analysis
 
@@ -8,4 +8,4 @@
 
 #### Week 4 (Jan29) - Working with string data
 
-##### Week 5 (Feb06) - Working with Internet data
+#### Week 5 (Feb06) - Working with Internet data
