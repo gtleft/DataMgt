@@ -1,4 +1,4 @@
-## [DataMgt-01] Code for class ##
+## [DM-01] R basics ##
 
 # Start #
 2 + 2
