@@ -1,1 +1,1 @@
-This folder contains the data sets for the data management course
+This folder contains the data sets for the data management course.
