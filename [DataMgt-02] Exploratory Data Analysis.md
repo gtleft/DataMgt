@@ -30,7 +30,7 @@
 
 #### Readings
 
-1. MJ Crawley (2012), *The R Book*, Wiley. Free access at `ftp://ftp.tuebingen.mpg.de/pub/kyb/bresciani/Crawley%20-%20The%20R%20Book.pdf
+1. MJ Crawley (2012), *The R Book*, Wiley. Free access at `ftp://ftp.tuebingen.mpg.de/pub/kyb/bresciani/Crawley%20-%20The%20R%20Book.pdf`.
 
 2. RI Kabacoff (2010), *R in Action*, Manning. Free access at `http://kek.ksu.ru/eos/DataMining/1379968983.pdf`.
 
