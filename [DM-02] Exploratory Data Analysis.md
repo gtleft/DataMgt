@@ -35,3 +35,7 @@
 2. RI Kabacoff (2010), *R in Action*, Manning. Free access at `http://kek.ksu.ru/eos/DataMining/1379968983.pdf`.
 
 3. H Wickham & G Grolemund (2016), *R for Data Science*, O'Reilly. Free access at `http://r4ds.had.co.nz`.
+
+#### Assignments
+
+2. The file `soybean.xls` (columns D to DB) contains data on prices of soybean **futures contracts**, from the Chicago Board of Trade. The series of dates for which the contract is in force is shorter than the period covered by the data. Produce a new table (3048 x 103), by replacing every price by its **tenor**, that is, the number of days before the contract expires, putting `NA` in every cell that is empty in the original data set.
