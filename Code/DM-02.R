@@ -17,14 +17,13 @@ library(foreign)
 df$salary <- as.factor(df$salary)
 str(df)
 write.dta(df, file="F:/turnover.dta")
-df <- read.dta("turnover.dta")
+df <- read.dta("F:/turnover.dta")
 str(df)
 
 # SPSS files #
 library(foreign)
 dfsurvey <- read.spss("F:/survey.sav", to.data.frame=T)
 str(dfsurvey[, 1:25])
-df <- read.dta()
 
 # Excel files (only reading) #
 library(readxl)
@@ -67,4 +66,4 @@ round(cor(df[, 1:8]), 2)
 hist(df$eval)
 
 # Scatterplot #
-plot(eval ~ hours, data=df)
+plot(eval ~ hours, data=df, pch=20)
